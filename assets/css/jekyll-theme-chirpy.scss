@@ -1,0 +1,15 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+#sidebar .site-title a {
+  color: #fefefe;
+}
+
+
+#toc-wrapper ul .is-active-link {
+  color: rgb(255, 255, 255) !important;
+  font-weight: 600;
+}
