@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Kenny's Den # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Enjoy # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Sit back and relax
@@ -36,11 +36,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Kenny
-  email: kbhill@proton.me # change to your email address
+  email: kbhill@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://x.com/infoKennysec # change to your twitter homepage
-    - https://github.com/kbhill # change to your github homepage
+    - https://github.com/kennysden # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -104,7 +104,7 @@ avatar:
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
